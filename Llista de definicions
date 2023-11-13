@@ -8,12 +8,18 @@
 </head>
 <body><h1>Llista de definicions</h1>
     <ul>
-        <a href="HolaMundo.html">Ejercicio 1</a> <br>
-        <a href="cucu.html">Ejercicio 2</a> <br>
-        <a href="pre.html">Ejercicio 3</a> <br>
-        <a href="Llistas no ordenadas.html">Ejercicio 4</a> <br>
-        <a href="Llistas ordenadas.html">Ejercicio 5</a> <br>
-        <a href="Determinar codi HTML i enllaços.html">Ejercicio 6</a> <br>
+        <li>Inicio</li>
+        <li>Tauler</li>
+            <ul>
+                <li><a href="https://campus.proven.cat/my/" target="_blank">Tauler</li>
+                <li><a href="https://campus.proven.cat/?redirect=0" target="_blank">Inicio</li>
+            </ul>
+        <li>Articulos</li>
+            <ol>
+                <li>Botella</li>
+                <li>Champu</li>
+                <li>Arroz</li>
+            </ol>    
     </ul>
 </body>
 </html>
