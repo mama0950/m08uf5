@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equi="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+    <title>Maria</title>
+</head>
+<body><h1>Llista de definicions</h1>
+    <ul>
+        <a href="HolaMundo.html">Ejercicio 1</a> <br>
+        <a href="cucu.html">Ejercicio 2</a> <br>
+        <a href="pre.html">Ejercicio 3</a> <br>
+        <a href="Llistas no ordenadas.html">Ejercicio 4</a> <br>
+        <a href="Llistas ordenadas.html">Ejercicio 5</a> <br>
+        <a href="Determinar codi HTML i enllaços.html">Ejercicio 6</a> <br>
+    </ul>
+</body>
+</html>
