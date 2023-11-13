@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head> 
+    <link rel="stylesheet" href="css/nuevo 1.css">
+    <meta charset="UTF-8">
+    <meta http-equi="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+    <title>Asignaturas</title>
+</head>
+<body><h1>Lista</h1>
+    <ol>
+        <li>Redes</li>
+        <li>Sistemas Operativos</li>
+        <li>Aplicaciones Web</li>
+        <li>Seguridad Informatica</li>
+    </ol>
+</body>
+</html>

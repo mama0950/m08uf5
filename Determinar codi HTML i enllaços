@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head> 
+    <link rel="stylesheet" href="css/nuevo 1.css">
+    <meta charset="UTF-8">
+    <meta http-equi="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+    <title>Campus</title>
+</head>
+<body><h1>Campus</h1>
+    <ul>
+        <li>Inicio</li>
+        <li>Apartados</li>
+        <ul>
+            <li><a href="https://campus.proven.cat/my/" target="_blank">Tauler</li>
+            <li><a href="https://campus.proven.cat/?redirect=0" target="_blank">Inicio</li>
+                <li><a href="https://campus.proven.cat/grade/report/overview/index.php" target="_blank">Qualificacions</li>
+        </ul>
+    </ul>
+</body>
+</html>
