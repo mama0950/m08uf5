@@ -30,19 +30,9 @@ th, td {
   text-decoration: underline;
 }
 
-.modulo2 {
-  background-color: #90EE90;
+th {
+  background-color: #90eeac;
   font-family: "Times New Roman", serif;
   font-size: 18px;
   font-style: italic;
-}
-
-
-.enlaceModulo1, .enlaceModulo2 {
-  color: #333;
-  text-decoration: none;
-}
-
-.enlaceModulo1:hover, .enlaceModulo2:hover {
-  text-decoration: underline;
 }
