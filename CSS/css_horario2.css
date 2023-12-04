@@ -1,0 +1,48 @@
+
+#titulo, #horario {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+table {
+  border-collapse: collapse;
+  margin: 30px auto;
+  font-family: 'Arial', sans-serif;
+}
+
+
+th, td {
+  border: 2px solid #333;
+  width: 180px;
+  height: 60px;
+  text-align: center;
+}
+
+
+.modulo1 {
+  background-color: #FFD700;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.modulo2 {
+  background-color: #90EE90;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+}
+
+
+.enlaceModulo1, .enlaceModulo2 {
+  color: #333;
+  text-decoration: none;
+}
+
+.enlaceModulo1:hover, .enlaceModulo2:hover {
+  text-decoration: underline;
+}
