@@ -9,21 +9,23 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 .header {
     position: relative;
     width: 100%;
-    height: 150px;
-    background-color: #f5f5f5;
+    height: 200px;
+    background-color: #999999f3;
+    border: #333 solid 1px; 
 }
 
 .logo {
-    width: 100px;
+    width: 150px;
     height: auto;
     float: left;
     margin: 20px;
+    margin-top: 45px;
 }
 
 .header-title {
@@ -32,13 +34,16 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2rem;
-    color: #333;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
 }
 
 .nav {
     width: 20%;
-    padding: 20px;
-    background-color: #eee;
+    height: 692px;
+    padding: 60px;
+    background-color: #999999f3; 
+    border: #333 solid 1px; 
 }
 
 .nav-list {
@@ -47,18 +52,20 @@ body {
 
 .nav-item {
     padding: 10px;
-    background-color: #ddd;
+    background-color:  #999999f3;
     transition: background-color 0.3s ease;
 }
 
 .nav-item:hover {
-    background-color: #eee;
+    background-color:  rgba(194, 255, 250, 0.986);
+    color: black;
 }
 
 .main {
-    width: 50%;
+    width: 60%;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #ffffff;
+    border: #333 solid 1px; 
 }
 
 .main-text {
@@ -75,19 +82,22 @@ body {
 .aside {
     width: 20%;
     padding: 20px;
-    background-color: #eee;
+    background-color: rgba(0, 0, 0, 0.363);
+    border: #333 solid 1px; 
 }
 
 .banner {
     width: 100%;
     height: auto;
     border-radius: 10px;
+    margin-top: 150px;
 }
 
 .footer {
     width: 100%;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #d3d3d3;
+    border: rgba(51, 51, 51, 0) solid 1px; 
 }
 
 .footer-list {
@@ -104,4 +114,9 @@ body {
 .footer-item a {
     text-decoration: none;
     color: #333;
+}
+main img{
+    width: 750px;
+    margin-left: 200px;
+    margin-top: 60px;
 }
